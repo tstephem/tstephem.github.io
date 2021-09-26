@@ -4,7 +4,7 @@ bio:                'Data Science Enthusiast'
 description:        
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/17951935_1581934698513268_427046301299862604_n.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              tstephem@gmail.com
+#email:              tstephem@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         tstephem
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           tstephem
 #xing:              username
-instagram:          username
+instagram:          t.stephem
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
