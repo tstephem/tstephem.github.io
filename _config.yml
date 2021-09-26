@@ -37,12 +37,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              tstephem@gmail.com
 #twitter:            username
-facebook:           username
+#facebook:           username
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           tstephem    from a "https://www.linkedin.com/in/tstephem/"
+linkedin:           tstephem
 #xing:              username
 instagram:          username
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
