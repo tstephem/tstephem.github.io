@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# Hello there,
+## My name is Thiago Stephem, and I'm studying actuarial science in Universidade Federal do Rio de Janeiro in Brazil, and im completing statistic degree too.
 
 ## Features
 * Minimal, you can focus on your content
