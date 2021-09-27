@@ -9,30 +9,8 @@ comments: false
 # Hello there,
 ## My name is Thiago Stephem, and I'm studying actuarial science in Universidade Federal do Rio de Janeiro in Brazil, and im completing statistic degree too.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I'm 23 and currenty living in Guapimirim, Rio de Janeiro, Brazil. I'm looking to intern experience in Data Science and Machine learning area. I discover that i have intersering in this area doing a Neural network subject in the university, and i'm really excited to put this in work. I'll try to do some Machine learning projects and publish here in this site. 
 
-## Preview
+You can contact me by my gmail: tstephem@gmail.com
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
